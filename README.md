@@ -1,6 +1,6 @@
 ## 📓 Code 201 Reading Notes 📓
 ### 📙 Daily Reading Assignments Table of Contents
- - [ ] 📙 **Daily Reading Assignment 1**
+ - [x] 📙 **Daily Reading Assignment 1**
   - HTML & CSS Duckett: Intro (pg. 2-11), Chapter 1 (pg. 12-39), Chapter 8 (pg. 176-199), 
              Chapter 17 (pg. 428-451), Chapter 18 (pg. 452-475)
   - JS Duckett: Intro, Chapter 1 (pg. 11-52)
