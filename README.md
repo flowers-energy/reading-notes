@@ -4,7 +4,7 @@
   - HTML & CSS Duckett: Intro (pg. 2-11), Chapter 1 (pg. 12-39), Chapter 8 (pg. 176-199), 
              Chapter 17 (pg. 428-451), Chapter 18 (pg. 452-475)
   - JS Duckett: Intro, Chapter 1 (pg. 11-52)
-    - [x] 📄 **Reading Notes 1**
+    - [x] 📄 [**Reading Notes 1**](class-01.md)
  - [ ] 📙 **Daily Reading Assignment 2**
     - [ ] 📄 **Reading Notes 2** 
  - [ ] 📙 **Daily Reading Assignment 3**
