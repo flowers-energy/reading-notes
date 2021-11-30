@@ -5,8 +5,10 @@
              Chapter 17 (pg. 428-451), Chapter 18 (pg. 452-475)
   - JS Duckett: Intro, Chapter 1 (pg. 11-52)
     - [x] 📄 [**Reading Notes 1**](class-01.md)
- - [ ] 📙 **Daily Reading Assignment 2**
-    - [ ] 📄 **Reading Notes 2** 
+ - [x] 📙 **Daily Reading Assignment 2**
+   - HTML & CSS Duckett: Chapter 2 (pg. 40-61), Chapter 10 (pg. 226-245)
+   - JS Duckett: Chapter 2 (53-84), Chapter 4 (pg. 145 -162)
+    - [x] 📄 [**Reading Notes 2**](class-02.md)
  - [ ] 📙 **Daily Reading Assignment 3**
     - [ ] 📄 **Reading Notes 3**
  - [ ] 📙 **Daily Reading Assignment 4**
