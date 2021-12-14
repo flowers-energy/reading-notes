@@ -74,13 +74,13 @@
    
     - [ ] 📄 **Reading Notes 8**
     
- - [ ] 📙 **Daily Reading Assignment 9**
+ - [x] 📙 **Daily Reading Assignment 9**
  
    - Duckett HTML book:
    
    - Duckett JS book: 
    
-    - [ ] 📄 **Reading Notes 9**
+    - [x] 📄 [**Reading Notes 9**](class-09.md)
     
  - [ ] 📙 **Daily Reading Assignment 10**
  
@@ -99,13 +99,13 @@
     - [ ] 📄 **Reading Notes 11**
    
      
- - [ ] 📙 **Daily Reading Assignment 12**
+ - [x] 📙 **Daily Reading Assignment 12**
  
-   - Duckett HTML book:
+   - Chart.js article
    
-   - Duckett JS book:
+   - Canvas articles
    
-    - [ ] 📄 **Reading Notes 12**
+    - [x] 📄 [**Reading Notes 12**](Read-12.md)
    
  - [ ] 📙 **Daily Reading Assignment 13**
 
