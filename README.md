@@ -105,16 +105,13 @@
    
    - Canvas articles
    
-    - [x] 📄 [**Reading Notes 12**](Read-12.md)
+    - [x] 📄 [**Reading Notes 12**](read-12.md)
    
- - [ ] 📙 **Daily Reading Assignment 13**
+ - [x] 📙 **Daily Reading Assignment 13**
 
-   - Duckett HTML book:
+   - Article: THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS
    
-   - Duckett JS book: 
-   
-    - [ ] 📄 **Reading Notes 13**
-    
+    - [x] 📄 [**Reading Notes 13**](class-13.md) 
  - [ ] 📙 **Daily Reading Assignment 14**
  
    - Duckett HTML book:
