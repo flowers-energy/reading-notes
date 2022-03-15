@@ -129,5 +129,6 @@
     - [ ] 📄 **Reading Notes 15**
 
 ## Code 301 - Intermediate Software Development
+- [ ] 📙 [**Reading Class 07**](class-07.md)
 
 
