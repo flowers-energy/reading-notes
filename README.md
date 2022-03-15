@@ -111,7 +111,7 @@
 
    - Article: THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS
    
-    - [x] 📄 [**Reading Notes 13**](class-13.md) 
+    - [x] 📄 [**Reading Notes 13**](class-13.md)
  - [ ] 📙 **Daily Reading Assignment 14**
  
    - Duckett HTML book:
@@ -129,3 +129,5 @@
     - [ ] 📄 **Reading Notes 15**
 
 ## Code 301 - Intermediate Software Development
+
+
