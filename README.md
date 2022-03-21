@@ -131,6 +131,13 @@
 ## Code 301 - Intermediate Software Development
 - [x] 📙 [**Reading Class 01**](301-class-01.md)
 - [x] 📙 [**Reading Class 02**](301-class-02.md)
-- [x] 📙 [**Reading Class 07**](class-07.md)
+- [x] 📙 [**Reading Class 03**](301-class-03.md)
+- [x] 📙 [**Reading Class 07**](301-class-07.md)
+- [] 📙 [**Reading Class 08**](301-class-08.md)
+- [] 📙 [**Reading Class 09**](301-class-09.md)
+- [] 📙 [**Reading Class 10**](301-class-10.md)
+- [] 📙 [**Reading Class 11**](301-class-11.md)
+- [] 📙 [**Reading Class 12**](301-class-12.md)
+- [] 📙 [**Reading Class 13**](301-class-13.md)
 
-
+. 
